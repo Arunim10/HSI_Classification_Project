@@ -1,0 +1,2460 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2018-11-02T07:02:30.194630+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 132,
+    "enabled": true,
+    "entries": {
+      "0000.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:755c920ab73d3355849dff22ccf4b71b",
+        "ext": "zip",
+        "id": "596937b2-37aa-4062-824c-8a24be311b27",
+        "key": "0000.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0000.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0000.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 261021903,
+        "storage_class": "L"
+      },
+      "0001.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3432d166cf8a06c77fa92ba5615e85a5",
+        "ext": "zip",
+        "id": "8c1ea370-7eae-47ee-b8ec-cf3b1333fd20",
+        "key": "0001.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0001.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0001.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 261203591,
+        "storage_class": "L"
+      },
+      "0002.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9f89e4cdf704fd338466a7988d3cbada",
+        "ext": "zip",
+        "id": "19bc33be-70b6-4470-9092-da86287ec205",
+        "key": "0002.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0002.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0002.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 260140618,
+        "storage_class": "L"
+      },
+      "0003.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:918959af9af148facc0bf910b201e00f",
+        "ext": "zip",
+        "id": "52dae96d-351e-4b16-b1b2-ca916e5a8aab",
+        "key": "0003.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0003.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0003.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 521427802,
+        "storage_class": "L"
+      },
+      "0004.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:726c9b1d50860a5989c7803f573f789d",
+        "ext": "zip",
+        "id": "0eec5162-eb87-4f33-8c86-1d0525548840",
+        "key": "0004.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0004.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0004.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 262198750,
+        "storage_class": "L"
+      },
+      "0005.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4464649f9cb81ae4064301d14fe1926c",
+        "ext": "zip",
+        "id": "c06f8c80-6d8b-4c77-8ff0-6ec9c87cb1a4",
+        "key": "0005.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0005.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0005.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 548511170,
+        "storage_class": "L"
+      },
+      "0006.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ad3758b1747a31c38196677328a71700",
+        "ext": "zip",
+        "id": "d5b53611-2cdf-4328-824f-123d69a02fe8",
+        "key": "0006.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0006.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0006.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265090902,
+        "storage_class": "L"
+      },
+      "0007.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:54b6890abe1db31110cb39ca190a9621",
+        "ext": "zip",
+        "id": "5a1b4c1a-d2b9-46a4-95e1-b5cd64a012d6",
+        "key": "0007.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0007.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0007.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 263193298,
+        "storage_class": "L"
+      },
+      "0008.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c4d36473c52c995ab055931b5c8f7f0e",
+        "ext": "zip",
+        "id": "2873dbe9-4096-43d7-ac54-8a59893832fc",
+        "key": "0008.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0008.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0008.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265134492,
+        "storage_class": "L"
+      },
+      "0009.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:771548f273c1f8cbec1a21367b0e574b",
+        "ext": "zip",
+        "id": "93788fe0-f47a-466c-b089-df6c81e9daea",
+        "key": "0009.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0009.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0009.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 533527409,
+        "storage_class": "L"
+      },
+      "0010.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:30a6f52c46a36243259dd658e9a81b0c",
+        "ext": "zip",
+        "id": "3565b47e-0877-41d5-8063-90eddc21e96a",
+        "key": "0010.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0010.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0010.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 264195645,
+        "storage_class": "L"
+      },
+      "0011.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:da140f84f196279fd07c259df01c0c91",
+        "ext": "zip",
+        "id": "2af26939-08b1-490f-9c01-8a91964674c9",
+        "key": "0011.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0011.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0011.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 260742179,
+        "storage_class": "L"
+      },
+      "0012.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ed3933a78b677befdca0e065a8125267",
+        "ext": "zip",
+        "id": "8146aaf6-f085-4a51-8fc2-1a09c5a236f0",
+        "key": "0012.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0012.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0012.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 532913347,
+        "storage_class": "L"
+      },
+      "0013.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5b7101f8122db8d1822d20622df80ab9",
+        "ext": "zip",
+        "id": "47789ece-9090-44fd-961c-2fd2b1913f72",
+        "key": "0013.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0013.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0013.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 268468345,
+        "storage_class": "L"
+      },
+      "0014.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ccf1cb78adf12d21e46e776f11e86444",
+        "ext": "zip",
+        "id": "b497ee12-8575-49a1-87ea-d6c5429ca17f",
+        "key": "0014.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0014.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0014.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 262019874,
+        "storage_class": "L"
+      },
+      "0015.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6fbe21cb4d6150708cf334f114b180b2",
+        "ext": "zip",
+        "id": "11653b9c-cdff-4ca0-97af-bc10e375806d",
+        "key": "0015.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0015.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0015.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 419,
+        "storage_class": "L"
+      },
+      "0016.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3c058a84f526a0cac3a77fe3c3067bcd",
+        "ext": "zip",
+        "id": "53c7d72c-139e-4cca-890b-57138acccdb0",
+        "key": "0016.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0016.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0016.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265839707,
+        "storage_class": "L"
+      },
+      "0017.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6e32dfce1d9ca94f4ef05822e88816c1",
+        "ext": "zip",
+        "id": "c1448a03-bad9-4bbf-be2e-b8f24a25a91e",
+        "key": "0017.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0017.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0017.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 275613583,
+        "storage_class": "L"
+      },
+      "0018.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7024f5260cc9a53bbc7534a94bfb308f",
+        "ext": "zip",
+        "id": "cb624bd8-a409-4e3f-ace5-022e8712c76e",
+        "key": "0018.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0018.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0018.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265314435,
+        "storage_class": "L"
+      },
+      "0019.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c903ee8d9252a0b8cf4b5f81b10d83a6",
+        "ext": "zip",
+        "id": "4ee07a07-2db0-4801-9192-d396e2b62208",
+        "key": "0019.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0019.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0019.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 270106403,
+        "storage_class": "L"
+      },
+      "0020.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a0296fd31547e8281c7590aa6d030943",
+        "ext": "zip",
+        "id": "f2fa655c-6868-4a6d-9734-8d250f6a8516",
+        "key": "0020.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0020.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0020.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 263994271,
+        "storage_class": "L"
+      },
+      "0021.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:cf4d6216cbdbf5e591d4372445f4b9e8",
+        "ext": "zip",
+        "id": "cb9bd5af-21b6-46d1-8ff6-3d33b4edacce",
+        "key": "0021.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0021.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0021.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265197159,
+        "storage_class": "L"
+      },
+      "0022.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:01cc71171412c30e3bccfbca1f294ad2",
+        "ext": "zip",
+        "id": "68150341-c52d-4d45-8c00-5b836c668564",
+        "key": "0022.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0022.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0022.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 262736505,
+        "storage_class": "L"
+      },
+      "0023.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:445c10ca2a0ae4d86d193e970c57bc47",
+        "ext": "zip",
+        "id": "fab70682-d278-4ef5-a2fc-9e5aebdeed04",
+        "key": "0023.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0023.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0023.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 266333740,
+        "storage_class": "L"
+      },
+      "0024.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4e26c2e7e52489317a35dad29b7ed8c7",
+        "ext": "zip",
+        "id": "df5970c7-687f-4784-b76b-dfdb50488537",
+        "key": "0024.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0024.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0024.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 267561709,
+        "storage_class": "L"
+      },
+      "0025.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6330c97b07ca01b054d13a4c194a5d2a",
+        "ext": "zip",
+        "id": "90d41872-5b17-41c3-b8a3-9822379e4a37",
+        "key": "0025.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0025.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0025.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265186552,
+        "storage_class": "L"
+      },
+      "0026.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b15ae33bec7fd22afa4750666b599de3",
+        "ext": "zip",
+        "id": "47d476f9-124a-4f2a-b159-3ec529a89731",
+        "key": "0026.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0026.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0026.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 266899181,
+        "storage_class": "L"
+      },
+      "0027.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:031f849de7339ec96934b489edb66636",
+        "ext": "zip",
+        "id": "58ea7299-7b80-4275-b9b2-beeefcef1555",
+        "key": "0027.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0027.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0027.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 266342753,
+        "storage_class": "L"
+      },
+      "0028.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3086b0aa4114dafc18b1d1b2bca640d6",
+        "ext": "zip",
+        "id": "9e138e62-fe58-47b3-ac26-abf0977bfcab",
+        "key": "0028.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0028.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0028.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265769029,
+        "storage_class": "L"
+      },
+      "0029.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ed1913e103bfa447ae03b33d24f0f0bd",
+        "ext": "zip",
+        "id": "ae2afeeb-1bbf-46b5-96f7-a126bef3aaca",
+        "key": "0029.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0029.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0029.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 260407889,
+        "storage_class": "L"
+      },
+      "0030.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:feadda81d7ba8cf03bfb15278cfafdf6",
+        "ext": "zip",
+        "id": "c5cbfd93-cc30-4a23-9649-a8c83111bb47",
+        "key": "0030.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0030.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0030.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 266383287,
+        "storage_class": "L"
+      },
+      "0031.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1607dd6f669fd02dca052099caf5d9e7",
+        "ext": "zip",
+        "id": "5403cfc9-0ef4-49f9-91a7-353f69a06625",
+        "key": "0031.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0031.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0031.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 268116091,
+        "storage_class": "L"
+      },
+      "0032.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0cc09175dd67d0ae0c8711ed6c26bd60",
+        "ext": "zip",
+        "id": "4d596840-e100-47e4-8cd8-c46ae6865656",
+        "key": "0032.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0032.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0032.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 264550667,
+        "storage_class": "L"
+      },
+      "0033.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f42a5ef13114b02945974cafcc8cd90d",
+        "ext": "zip",
+        "id": "31f47929-1d92-4f11-8a7f-8398761f364f",
+        "key": "0033.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0033.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0033.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 266634183,
+        "storage_class": "L"
+      },
+      "0034.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:251d7d91ab06715efa9a11146a00c193",
+        "ext": "zip",
+        "id": "59c0c656-cde6-4a1f-b55b-3a07b81c6850",
+        "key": "0034.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0034.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0034.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 272463380,
+        "storage_class": "L"
+      },
+      "0035.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:15f5182985119c1e08d0d6594c8a008a",
+        "ext": "zip",
+        "id": "39b897d5-6593-4b64-ba49-b07296726a5f",
+        "key": "0035.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0035.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0035.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 274220458,
+        "storage_class": "L"
+      },
+      "0036.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0c5828b077b9be634318ee00ab8ca8eb",
+        "ext": "zip",
+        "id": "4b2bcb3d-1a40-4443-b58f-22883d22ca13",
+        "key": "0036.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0036.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0036.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265049065,
+        "storage_class": "L"
+      },
+      "0037.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6fd9a125f6a004d0881b3924ebadb23b",
+        "ext": "zip",
+        "id": "89a1fc86-ca24-47c5-bfdd-1eff5293b43b",
+        "key": "0037.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0037.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0037.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 263390155,
+        "storage_class": "L"
+      },
+      "0038.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:952b5784d7ee1f47ad6bf3a0acec8fde",
+        "ext": "zip",
+        "id": "866f8c11-3344-4986-91dc-c8a79cad2c59",
+        "key": "0038.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0038.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0038.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 263654207,
+        "storage_class": "L"
+      },
+      "0039.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ca947c10f9583e36cb2ab956345d6d9b",
+        "ext": "zip",
+        "id": "3047327a-dbfd-45c4-a80a-67b2d030eb2f",
+        "key": "0039.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0039.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0039.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 542248505,
+        "storage_class": "L"
+      },
+      "0040.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:06bd7387d4d1266967e15a578b53ef62",
+        "ext": "zip",
+        "id": "6622bdb8-e366-42e6-a520-26ab1820ca4f",
+        "key": "0040.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0040.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0040.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 261580467,
+        "storage_class": "L"
+      },
+      "0041.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b7e3f241f81d3b6c7c5666c75c4c75de",
+        "ext": "zip",
+        "id": "2135ee74-7a94-41a6-8ad3-ddfb8751e1ea",
+        "key": "0041.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0041.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0041.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 261932143,
+        "storage_class": "L"
+      },
+      "0042.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a889a124d61c1bc9fc3218765a71563e",
+        "ext": "zip",
+        "id": "6a238478-ca93-436c-8278-45c74a00b660",
+        "key": "0042.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0042.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0042.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 269441297,
+        "storage_class": "L"
+      },
+      "0043.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:860c576999f3b93939a17202b92c2b73",
+        "ext": "zip",
+        "id": "130a157a-4cfe-48d8-aec0-dcf8b355adcc",
+        "key": "0043.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0043.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0043.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 271968747,
+        "storage_class": "L"
+      },
+      "0044.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7078c242bd9ff44ac6bcc9439375b913",
+        "ext": "zip",
+        "id": "22cb7ee7-93ac-4540-b5a7-4175587fcace",
+        "key": "0044.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0044.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0044.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 270593142,
+        "storage_class": "L"
+      },
+      "0045.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e8345ac71a1da57751627a87de5ac1c1",
+        "ext": "zip",
+        "id": "24be3072-f646-4bba-8399-c7403811ef43",
+        "key": "0045.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0045.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0045.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 268175660,
+        "storage_class": "L"
+      },
+      "0046.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e35a7a1a10b26b311065d5fd49ca2129",
+        "ext": "zip",
+        "id": "d9051881-7d73-47c8-ac39-e0e0cfe96313",
+        "key": "0046.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0046.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0046.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 261994646,
+        "storage_class": "L"
+      },
+      "0047.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b8c53f88423dcdcd992c1ca198ba4919",
+        "ext": "zip",
+        "id": "55693aaa-7294-4f89-ab60-adbc14994b84",
+        "key": "0047.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0047.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0047.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 263004313,
+        "storage_class": "L"
+      },
+      "0048.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c9492456e25d6f23ad31611f460e22d7",
+        "ext": "zip",
+        "id": "44d878a7-940a-4fb9-9909-38855824850e",
+        "key": "0048.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0048.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0048.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 262347833,
+        "storage_class": "L"
+      },
+      "0049.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e5a61cb8694e265f31a1d56ede439205",
+        "ext": "zip",
+        "id": "2f76969f-d81b-41ea-9198-2259281d2385",
+        "key": "0049.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0049.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0049.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 543869772,
+        "storage_class": "L"
+      },
+      "0050.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:003ec49f1641d808f1a478cfaedc1976",
+        "ext": "zip",
+        "id": "17dd769c-46a3-4105-af2d-c1b3767bced0",
+        "key": "0050.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0050.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0050.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 264573103,
+        "storage_class": "L"
+      },
+      "0051.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a32cacc9d79d293c7619026ced605383",
+        "ext": "zip",
+        "id": "4f768ccb-b298-47a8-808f-945a4186e4da",
+        "key": "0051.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0051.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0051.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 267313908,
+        "storage_class": "L"
+      },
+      "0052.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8b753432c4b21d5a79fb19258f471fa8",
+        "ext": "zip",
+        "id": "c35308e1-c1e7-4e77-973a-0393e962b53d",
+        "key": "0052.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0052.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0052.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 261046082,
+        "storage_class": "L"
+      },
+      "0053.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b43554bab4852e43fce52508840bbba1",
+        "ext": "zip",
+        "id": "a3df1f8c-b089-4019-8051-d153f78518cc",
+        "key": "0053.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0053.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0053.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 264107893,
+        "storage_class": "L"
+      },
+      "0054.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:06678eac2b1e32bc6daff6055623f910",
+        "ext": "zip",
+        "id": "43608b3c-5ad6-49bc-b966-0e54df5f035e",
+        "key": "0054.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0054.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0054.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 262728124,
+        "storage_class": "L"
+      },
+      "0055.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2fe9463f2293eb58c2b7e3e4d69b5fae",
+        "ext": "zip",
+        "id": "fe371bda-f0ec-4de9-9c1c-fa42d34eef06",
+        "key": "0055.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0055.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0055.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 260194690,
+        "storage_class": "L"
+      },
+      "0056.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b2a5dc2488232a072a56362f3a984bd4",
+        "ext": "zip",
+        "id": "62863679-7e9c-4a74-80fd-484324aff8e6",
+        "key": "0056.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0056.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0056.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 264430218,
+        "storage_class": "L"
+      },
+      "0057.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:eff77130c511dddb060e8942aec1acf4",
+        "ext": "zip",
+        "id": "06fed3c8-4a16-4001-8c59-84f1a764bb24",
+        "key": "0057.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0057.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0057.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 268211107,
+        "storage_class": "L"
+      },
+      "0058.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:cf06d6f32d8e8d0c7d8183bbda1e1c22",
+        "ext": "zip",
+        "id": "939a6410-6ed9-41ae-81c9-ced5166e4e3a",
+        "key": "0058.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0058.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0058.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 262601575,
+        "storage_class": "L"
+      },
+      "0059.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:fd43a5650e5a23dd8b0f3273ff84de3b",
+        "ext": "zip",
+        "id": "9bf1c56c-b76d-494f-bdf7-425915521ae3",
+        "key": "0059.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0059.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0059.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 261857091,
+        "storage_class": "L"
+      },
+      "0060.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c1c96c6911839a6c54342fe087a50adf",
+        "ext": "zip",
+        "id": "20ba9526-572e-4b35-aee3-5d1b37bb2725",
+        "key": "0060.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0060.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0060.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 268375485,
+        "storage_class": "L"
+      },
+      "0061.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5335419295861db4df72860bfa268b33",
+        "ext": "zip",
+        "id": "379aeddb-e603-4709-a75c-ed22547cc1a6",
+        "key": "0061.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0061.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0061.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 264618425,
+        "storage_class": "L"
+      },
+      "0062.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f1b7e187bd7845c25aa5ce8165e93116",
+        "ext": "zip",
+        "id": "a0dc131a-89ab-4ca9-8abc-22cbb84ae5f2",
+        "key": "0062.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0062.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0062.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 270114772,
+        "storage_class": "L"
+      },
+      "0063.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ae5c05bdb08921ae623c92b7764d2a56",
+        "ext": "zip",
+        "id": "de8e9024-75a0-4409-b508-112929d24c00",
+        "key": "0063.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0063.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0063.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 260993920,
+        "storage_class": "L"
+      },
+      "0064.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:037112ee78a96f7266917a16942d8b1a",
+        "ext": "zip",
+        "id": "84989380-da59-410e-ab1b-05c036ba4473",
+        "key": "0064.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0064.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0064.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 264451982,
+        "storage_class": "L"
+      },
+      "0065.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a01cead58f4ea5bf3eb6e2c62fb7092e",
+        "ext": "zip",
+        "id": "7d77b807-c7dc-45c9-85a2-b3bc6f57a0ac",
+        "key": "0065.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0065.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0065.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 261716929,
+        "storage_class": "L"
+      },
+      "0066.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6a1ede5c68f375c2ac1b93a6f09c8db6",
+        "ext": "zip",
+        "id": "feca84ac-25cf-4b80-b317-de23ae0f47db",
+        "key": "0066.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0066.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0066.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265771072,
+        "storage_class": "L"
+      },
+      "0067.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d436028926f6bfbbe59841fe52a04baa",
+        "ext": "zip",
+        "id": "c975e4f9-db50-45f6-8652-865039d16664",
+        "key": "0067.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0067.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0067.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 277073273,
+        "storage_class": "L"
+      },
+      "0068.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3ca1991b8b54cd9e628d786811c6f1e2",
+        "ext": "zip",
+        "id": "14d4ab2f-2fdc-4775-9509-40b9b6a6e85e",
+        "key": "0068.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0068.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0068.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 266725710,
+        "storage_class": "L"
+      },
+      "0069.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:86dfa39c0de6f0bdc06d94158fc22385",
+        "ext": "zip",
+        "id": "2b549c7f-a32d-4227-b460-f2fc306571e0",
+        "key": "0069.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0069.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0069.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 275943924,
+        "storage_class": "L"
+      },
+      "0070.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0bb685b17c8136c923766ba6480b0200",
+        "ext": "zip",
+        "id": "9848ffd1-2156-4b98-b262-2e473a5fff94",
+        "key": "0070.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0070.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0070.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 266248096,
+        "storage_class": "L"
+      },
+      "0071.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a574e065d479c4a61e24c0ae294c26ec",
+        "ext": "zip",
+        "id": "056279ad-2edb-4976-a09e-007ac43cd270",
+        "key": "0071.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0071.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0071.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 270160912,
+        "storage_class": "L"
+      },
+      "0072.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bbd523d4e1212035d42ffe99e649148b",
+        "ext": "zip",
+        "id": "6f1450db-46a1-4cd5-8bba-7515c5f239db",
+        "key": "0072.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0072.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0072.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 263466083,
+        "storage_class": "L"
+      },
+      "0073.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:fe7b8771bad10b25b164c7ab4e449519",
+        "ext": "zip",
+        "id": "a669d523-7dc4-4dcf-bf58-92b704fe0ab5",
+        "key": "0073.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0073.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0073.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 268553442,
+        "storage_class": "L"
+      },
+      "0074.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:00d418a199b723e28cee9befa041a729",
+        "ext": "zip",
+        "id": "a69356eb-fc29-4833-a502-6ae53534b96b",
+        "key": "0074.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0074.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0074.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 266558743,
+        "storage_class": "L"
+      },
+      "0075.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c55322d9d51c1034f0509fb3e83814ac",
+        "ext": "zip",
+        "id": "f04b6823-7fdb-4d5e-9b9c-50c2de77e272",
+        "key": "0075.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0075.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0075.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 578982807,
+        "storage_class": "L"
+      },
+      "0076.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:99e335f13feffbacfbbabe966f227f3e",
+        "ext": "zip",
+        "id": "ee9f64eb-389a-45cc-abd2-c4b3c1d6e0a9",
+        "key": "0076.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0076.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0076.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 270484976,
+        "storage_class": "L"
+      },
+      "0077.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:fe89a4d15044d69e346d067477b44552",
+        "ext": "zip",
+        "id": "480a3d85-29f1-4aa3-a0cd-3a7b0dc182e5",
+        "key": "0077.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0077.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0077.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 272452290,
+        "storage_class": "L"
+      },
+      "0078.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:14666d283edb39ead5fcd3cf904c4ead",
+        "ext": "zip",
+        "id": "5a86b82d-e6ac-44d0-9f4e-7b9fa4f8641a",
+        "key": "0078.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0078.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0078.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 262965708,
+        "storage_class": "L"
+      },
+      "0079.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:033e5337184fa6a7e5f5e8fe79bcbdc3",
+        "ext": "zip",
+        "id": "60279d45-99b9-4147-bddc-5ef7ee726e35",
+        "key": "0079.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0079.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0079.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 262570217,
+        "storage_class": "L"
+      },
+      "0080.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:16151d6822b51d77e01372a2675a1dc6",
+        "ext": "zip",
+        "id": "ebe2798f-dfa0-46fa-9280-7237b2d36d70",
+        "key": "0080.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0080.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0080.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 292221209,
+        "storage_class": "L"
+      },
+      "0081.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b2051639fc89967964ca1a9e33b28343",
+        "ext": "zip",
+        "id": "f83855c9-31f3-4918-9cc4-709438d8cf8b",
+        "key": "0081.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0081.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0081.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 299993420,
+        "storage_class": "L"
+      },
+      "0082.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7b1b7ad20e5cb1de950d5c2f5361e1ff",
+        "ext": "zip",
+        "id": "3200f9a7-bb88-4d65-9231-28714f7c07ed",
+        "key": "0082.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0082.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0082.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 294044522,
+        "storage_class": "L"
+      },
+      "0083.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7e65817aca6d0a6890b9af4313927e6a",
+        "ext": "zip",
+        "id": "a1bdb5ef-5a57-4bb3-a693-65d1789261df",
+        "key": "0083.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0083.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0083.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 296734744,
+        "storage_class": "L"
+      },
+      "0084.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:42f08a7d21f142bab60079ee8531337e",
+        "ext": "zip",
+        "id": "ea6e85d7-6053-4f16-84b1-bd547aa83d39",
+        "key": "0084.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0084.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0084.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265289081,
+        "storage_class": "L"
+      },
+      "0085.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4b0fae15e39b7cbf47416d5f63cb41af",
+        "ext": "zip",
+        "id": "7eacb2cc-a614-4052-bb43-64a9cb7e6c87",
+        "key": "0085.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0085.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0085.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 535937765,
+        "storage_class": "L"
+      },
+      "0086.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6e3ebe173f47a68dedf8db25645f6eb0",
+        "ext": "zip",
+        "id": "6670f92d-964a-4016-9513-fea57dea818f",
+        "key": "0086.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0086.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0086.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 526578566,
+        "storage_class": "L"
+      },
+      "0087.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:666bf8d9dac69b569ee054c61e8405c2",
+        "ext": "zip",
+        "id": "d625fe67-b07f-4247-ad54-5f185876471f",
+        "key": "0087.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0087.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0087.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 540054580,
+        "storage_class": "L"
+      },
+      "0088.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1d28a5fa891f22379f9566e39009274f",
+        "ext": "zip",
+        "id": "7389b93b-b71c-425a-95f1-3f5d1b74512d",
+        "key": "0088.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0088.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0088.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 535893040,
+        "storage_class": "L"
+      },
+      "0089.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6c5ad71b73a582cbe069c1f52026d86a",
+        "ext": "zip",
+        "id": "fc6965aa-c809-42d1-ba4c-b9582542aff4",
+        "key": "0089.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0089.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0089.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 529855006,
+        "storage_class": "L"
+      },
+      "0090.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:cc86a57c266478dcb930d25efeb99dbe",
+        "ext": "zip",
+        "id": "ab52ef7d-30c5-479d-b097-fe2007317939",
+        "key": "0090.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0090.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0090.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 525794405,
+        "storage_class": "L"
+      },
+      "0091.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4e28018231c6c0e8f660cf3bc940bfa2",
+        "ext": "zip",
+        "id": "e2433498-bc93-4c13-87d7-312d4bda9405",
+        "key": "0091.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0091.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0091.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 526585138,
+        "storage_class": "L"
+      },
+      "0092.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a3919a6ebdefa1d2bc0ef04dfea9e836",
+        "ext": "zip",
+        "id": "3b7da889-699d-49cb-ae72-ab06603a1640",
+        "key": "0092.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0092.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0092.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 521830999,
+        "storage_class": "L"
+      },
+      "0093.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:03c3783fe32f1274b658f1b1d61f435e",
+        "ext": "zip",
+        "id": "039c6db4-e3e3-43ea-8fe6-e23b73aaea0a",
+        "key": "0093.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0093.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0093.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 258722440,
+        "storage_class": "L"
+      },
+      "0094.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ae9a5ac845590bf98eebbbd403683009",
+        "ext": "zip",
+        "id": "48bdf84b-e474-43ae-bad1-d66cb04e6eae",
+        "key": "0094.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0094.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0094.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 260500534,
+        "storage_class": "L"
+      },
+      "0095.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:086520531d533cfd9f24136ee7932715",
+        "ext": "zip",
+        "id": "8a11e2d7-b729-4b8c-af80-17f4c513d820",
+        "key": "0095.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0095.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0095.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 268912019,
+        "storage_class": "L"
+      },
+      "0096.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:af46fbce9759c5b23d83ad2eba2b14c0",
+        "ext": "zip",
+        "id": "d23bba6d-36f4-41b2-a8e6-e7bd8d2616d9",
+        "key": "0096.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0096.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0096.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 269973675,
+        "storage_class": "L"
+      },
+      "0097.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0544503c7bed0f0a110a05872a8f909b",
+        "ext": "zip",
+        "id": "7ad8a594-64da-456b-a24c-cfb9a4cfdb3e",
+        "key": "0097.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0097.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0097.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 535752363,
+        "storage_class": "L"
+      },
+      "0098.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d176e81e0d52b7ae9b3827949aaa4d4a",
+        "ext": "zip",
+        "id": "098dc2e9-6155-4716-8b0d-af5ba653a467",
+        "key": "0098.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0098.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0098.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 538407393,
+        "storage_class": "L"
+      },
+      "0099.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:dc88ac56bf31936ab3452e23225378f5",
+        "ext": "zip",
+        "id": "f3a4ebf7-d2f0-4ed0-aaaf-8f1bbec3cda9",
+        "key": "0099.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0099.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0099.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 528974261,
+        "storage_class": "L"
+      },
+      "0100.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b52921f026714d2d350b7be55414cefb",
+        "ext": "zip",
+        "id": "b9eff2da-e33c-4863-935b-23df627c9ecb",
+        "key": "0100.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0100.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0100.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 260903700,
+        "storage_class": "L"
+      },
+      "0101.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8074076b5559e1bfc26207d24c64c202",
+        "ext": "zip",
+        "id": "599fc892-f722-4766-9f93-65e8a4635457",
+        "key": "0101.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0101.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0101.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265826635,
+        "storage_class": "L"
+      },
+      "0102.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:814af319a32f85de3b79571c766e1610",
+        "ext": "zip",
+        "id": "1c1bce78-7215-41b3-8cc4-8ba4b650b832",
+        "key": "0102.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0102.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0102.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 267148694,
+        "storage_class": "L"
+      },
+      "0103.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:35a1aae88ea67b9a98c2c95dbb670e43",
+        "ext": "zip",
+        "id": "d35b3832-e8a9-47dd-b5f1-ab28787957de",
+        "key": "0103.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0103.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0103.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 262467263,
+        "storage_class": "L"
+      },
+      "0104.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8fc76bf3770a52f5e737ffcaf5452b9a",
+        "ext": "zip",
+        "id": "b862a82d-333f-4864-b2f1-3171816c9298",
+        "key": "0104.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0104.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0104.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 521059196,
+        "storage_class": "L"
+      },
+      "0105.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:53ac849b85c3edb968d63c7c05c0419c",
+        "ext": "zip",
+        "id": "83c2309b-1d6b-4e23-ba68-f0ce0a905207",
+        "key": "0105.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0105.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0105.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 270190601,
+        "storage_class": "L"
+      },
+      "0106.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f870b73dfee97827658a7304d5ac39e2",
+        "ext": "zip",
+        "id": "82e353d3-de76-4abf-a2d9-d954f247fce6",
+        "key": "0106.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0106.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0106.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 269350326,
+        "storage_class": "L"
+      },
+      "0107.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:67d9e17c8b169ebe7ea8206f8f30c0d7",
+        "ext": "zip",
+        "id": "5195bef1-39b2-4351-8137-f41c659dc1ac",
+        "key": "0107.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0107.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0107.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 270638108,
+        "storage_class": "L"
+      },
+      "0108.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8cff4df753d5a54bf816b71d4e43c694",
+        "ext": "zip",
+        "id": "9c12081a-d730-4937-80c2-adf477c24e86",
+        "key": "0108.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0108.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0108.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 530488110,
+        "storage_class": "L"
+      },
+      "0109.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d9202f23e7c8d67c0942f3921e932d37",
+        "ext": "zip",
+        "id": "3c0088fc-4b96-44a6-a46d-83fd11a9e633",
+        "key": "0109.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0109.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0109.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 529775116,
+        "storage_class": "L"
+      },
+      "0110.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:27d5c4820078dca4915ea6acde2b0ad8",
+        "ext": "zip",
+        "id": "dd4eaeb0-d3de-4731-a5ba-98a8ec576acd",
+        "key": "0110.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0110.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0110.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 520433811,
+        "storage_class": "L"
+      },
+      "0111.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:76b18e4cdd8feebe43e4c16c5a7a7058",
+        "ext": "zip",
+        "id": "cc67b18d-b3e8-4887-bfb7-ae2ba3c410e2",
+        "key": "0111.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0111.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0111.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 272655898,
+        "storage_class": "L"
+      },
+      "0112.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3d2e54b0b7832e81acf8dece22450c15",
+        "ext": "zip",
+        "id": "d4920b2b-2c8d-4acf-b830-eb6ab3709cb0",
+        "key": "0112.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0112.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0112.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 276147348,
+        "storage_class": "L"
+      },
+      "0113.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:570f8c94e738fc188ff3e1bc0649acc2",
+        "ext": "zip",
+        "id": "d31c06f0-0e3d-41ca-9644-c058459b877f",
+        "key": "0113.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0113.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0113.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 259224646,
+        "storage_class": "L"
+      },
+      "0114.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7c9f182c0068784d61d76543f7dfd161",
+        "ext": "zip",
+        "id": "48fe17a3-fb0c-4d60-b6eb-a9a204988243",
+        "key": "0114.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0114.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0114.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 262633001,
+        "storage_class": "L"
+      },
+      "0115.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0fbb4540f5100d1deecc3c67c10d737d",
+        "ext": "zip",
+        "id": "d4b87191-f7cb-403a-a9f7-8a0b75db6e93",
+        "key": "0115.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0115.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0115.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 268377928,
+        "storage_class": "L"
+      },
+      "0116.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f86559e51731b4528fc5385ffca8a822",
+        "ext": "zip",
+        "id": "eeafb708-e30c-4933-be75-83a9155d5328",
+        "key": "0116.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0116.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0116.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 266151909,
+        "storage_class": "L"
+      },
+      "0117.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:dc0768b4c9468b86994bdff4266a0c79",
+        "ext": "zip",
+        "id": "415a067f-28d8-4213-92a2-328c031393b9",
+        "key": "0117.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0117.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0117.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 266424170,
+        "storage_class": "L"
+      },
+      "0118.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:28a92a80e57704d572943d2c6caa585c",
+        "ext": "zip",
+        "id": "4429e8f7-00a0-4847-a0ab-8b47757b8c2d",
+        "key": "0118.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0118.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0118.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 268036177,
+        "storage_class": "L"
+      },
+      "0119.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1272541213fb4e4e835feb3132df0377",
+        "ext": "zip",
+        "id": "abe22774-4992-4c00-9eb5-25b60017d5c6",
+        "key": "0119.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0119.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0119.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265534991,
+        "storage_class": "L"
+      },
+      "0120.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:276210a065e226a558a3b3ae16a466d4",
+        "ext": "zip",
+        "id": "20a355b0-25ac-4d00-bba9-b34f75cc2cfb",
+        "key": "0120.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0120.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0120.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 268039834,
+        "storage_class": "L"
+      },
+      "0121.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d6109f849046643303185077e2b6282b",
+        "ext": "zip",
+        "id": "f71ed6a3-9a99-47b6-bbb1-04a0ae575e1a",
+        "key": "0121.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0121.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0121.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 286483279,
+        "storage_class": "L"
+      },
+      "0122.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2127224f54d2d22833bb853ca552ed3f",
+        "ext": "zip",
+        "id": "8888fa0c-83b0-425d-ad54-d99e86d3738b",
+        "key": "0122.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0122.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0122.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 265995428,
+        "storage_class": "L"
+      },
+      "0123.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1f14fc63d5facbbe2e640810e3ab881a",
+        "ext": "zip",
+        "id": "595fed69-13c7-433b-86bf-b2ee8ebda9fd",
+        "key": "0123.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0123.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0123.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 263312832,
+        "storage_class": "L"
+      },
+      "0124.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:686aebdd81dc8e447e8a1aa991b815e2",
+        "ext": "zip",
+        "id": "4ac4f1f4-9bc7-44c4-ae73-ab74822d977a",
+        "key": "0124.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0124.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0124.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 264284179,
+        "storage_class": "L"
+      },
+      "0125.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:58bad4a2565e8250610725a478c1d29f",
+        "ext": "zip",
+        "id": "52fc220d-f9a8-4d88-9b17-cd6d8947230a",
+        "key": "0125.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0125.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0125.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 264672055,
+        "storage_class": "L"
+      },
+      "0126.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a47846a0198679d76aacc637111cf534",
+        "ext": "zip",
+        "id": "4fa0748d-3800-4c63-b69b-9108d8832e7a",
+        "key": "0126.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0126.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0126.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 267596848,
+        "storage_class": "L"
+      },
+      "0127.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:12328f215028309299e58d8bfa12486f",
+        "ext": "zip",
+        "id": "43fae4e6-0aa7-4038-9f32-aa6649083dfd",
+        "key": "0127.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0127.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0127.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 546879285,
+        "storage_class": "L"
+      },
+      "0128.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9bbfad26faf3af35c2ef20fc99065a62",
+        "ext": "zip",
+        "id": "13e4dd5c-401b-42f4-b1d8-ee169eb2cfcc",
+        "key": "0128.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0128.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0128.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 272469665,
+        "storage_class": "L"
+      },
+      "0129.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0b7608fcf3fa869d66f2640ebed05905",
+        "ext": "zip",
+        "id": "a0b158c5-b92c-44d3-bf9a-cf449222dd62",
+        "key": "0129.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/0129.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/0129.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 272216902,
+        "storage_class": "L"
+      },
+      "Bg.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:fce90876273f197283a2a3813809f083",
+        "ext": "zip",
+        "id": "5e84d731-4374-463b-afa7-e6bad6e8816b",
+        "key": "Bg.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/Bg.zip/content",
+          "self": "https://zenodo.org/api/records/1476495/files/Bg.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 271373585,
+        "storage_class": "L"
+      },
+      "envi_template.xml": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:64e9bc9cfa9abcbd18d859b6166195c0",
+        "ext": "xml",
+        "id": "485c3004-682d-4d78-b332-f4adb9967c6b",
+        "key": "envi_template.xml",
+        "links": {
+          "content": "https://zenodo.org/api/records/1476495/files/envi_template.xml/content",
+          "self": "https://zenodo.org/api/records/1476495/files/envi_template.xml"
+        },
+        "metadata": null,
+        "mimetype": "text/xml",
+        "size": 10560,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 40902860475
+  },
+  "id": "1476495",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/1476495/access",
+    "access_grants": "https://zenodo.org/api/records/1476495/access/grants",
+    "access_links": "https://zenodo.org/api/records/1476495/access/links",
+    "access_request": "https://zenodo.org/api/records/1476495/access/request",
+    "access_users": "https://zenodo.org/api/records/1476495/access/users",
+    "archive": "https://zenodo.org/api/records/1476495/files-archive",
+    "archive_media": "https://zenodo.org/api/records/1476495/media-files-archive",
+    "communities": "https://zenodo.org/api/records/1476495/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/1476495/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.1476495",
+    "draft": "https://zenodo.org/api/records/1476495/draft",
+    "files": "https://zenodo.org/api/records/1476495/files",
+    "latest": "https://zenodo.org/api/records/1476495/versions/latest",
+    "latest_html": "https://zenodo.org/records/1476495/latest",
+    "media_files": "https://zenodo.org/api/records/1476495/media-files",
+    "parent": "https://zenodo.org/api/records/1476494",
+    "parent_doi": "https://doi.org/10.5281/zenodo.1476495",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.1476494",
+    "parent_html": "https://zenodo.org/records/1476494",
+    "requests": "https://zenodo.org/api/records/1476495/requests",
+    "reserve_doi": "https://zenodo.org/api/records/1476495/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/1476495",
+    "self_doi": "https://doi.org/10.5281/zenodo.1476495",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.1476495",
+    "self_html": "https://zenodo.org/records/1476495",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1476495/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1476495/sequence/default",
+    "versions": "https://zenodo.org/api/records/1476495/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "University of Neuch\u00e2tel (CHYN)"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Fasnacht",
+          "given_name": "Laurent",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9853-8209",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Fasnacht, Laurent",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "University of Neuch\u00e2tel (CHYN)"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Vogt",
+          "given_name": "Marie-Louise",
+          "name": "Vogt, Marie-Louise",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "University of Neuch\u00e2tel (CHYN)"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Renard",
+          "given_name": "Philippe",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-4504-435X",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Renard, Philippe",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "University of Neuch\u00e2tel (CHYN)"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Brunner",
+          "given_name": "Philip",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6304-6274",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Brunner, Philip",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>Each <strong>zip</strong> file contains the text description file: <strong>description.txt</strong>. It also contains the data of one or two measurement, <strong>A</strong> and possibly B. The files are named as follows (<strong>####</strong>&nbsp;is the sample ID, <strong>@</strong> the letter of the measurement):</p>\n\n<ul>\n\t<li><strong>####-@.ply</strong>&nbsp;and <strong>####-@.png</strong>: 3D reconstruction in Stanford PLY format, and associated texture file.</li>\n\t<li><strong>@-im-000.jpg</strong>,&nbsp;<strong>@-im-010.jpg</strong>, ...,&nbsp;<strong>@-im-360.jpg</strong>: JPEG images of the sample, the angle is in degrees. 0 degree correspond to the position used during scanning.</li>\n\t<li><strong>@.hdr.h5</strong>: HDF5 file containing the HDR scan data.</li>\n</ul>\n\n<p>The zip files correspond to the sample IDs, according to the following table:</p>\n\n<pre><code>Mineral                                    Sample IDs Datapoints\n----------------------------------------------------------------\nActinolite                           0020, 0021, 0064      56840 \nAlbite                                           0107      22521 \nAlmandine                      0025, 0026, 0073, 0074      17425 \nAndalusite                                       0014      18862 \nAnhydrite                                        0004      30832 \nApatite                              0089(2), 0090(2)      69062 \nAragonite                                        0061      40111 \nArsenopyrite                                  0087(2)      66333 \nAugite                                           0038       8503 \nBarite                                           0006      37130 \nBeryl                                         0075(2)      37743 \nBiotite                                 0049(2), 0050      45400 \nBlende                                        0086(2)      15596 \nBronzite                                         0112      50452 \nBytownite                                        0103      14666 \nCalcite                  0010, 0011, 0052, 0078, 0079     112501 \nCassiterite                                0119, 0120      38535 \nCelestite                            0000, 0001, 0002      56075 \nChalcedony                           0108(2), 0109(2)      96431 \nChalcopyrite                                     0106      19375 \nChlorite                                         0013      75802 \nClinochlore                                      0126      45301 \nCoal                                       0081, 0082      44664 \nCopper                                           0101      14556 \nDiopside                                         0069      58959 \nDolomite                             0091(2), 0092(2)      76810 \nEnstatite                                        0047      31072 \nEpidote                                    0023, 0024      47306 \nFluorite                             0003(2), 0012(2)      98638 \nGalena                                     0053, 0054      17931 \nGarnet                                           0115      27331 \nGlaucophane                    0016, 0017, 0076, 0077     200830 \nGoethite                                         0114      10717 \nGraphite                                   0083, 0084      20047 \nGrossular                                  0030, 0031      46592 \nGypsum                            0005(2), 0007, 0063     159829 \nHalite                                     0008, 0056      66201 \nHalloysite                                 0121, 0122     102028 \nHematite                 0039(2), 0085(2), 0095, 0096     165228 \nHornblende                                       0046       9175 \nHypersthene                                      0111      62932 \nIlmenite                                         0116      16256 \nKaolinite                                        0113      20764 \nKyanite                                          0029      12320 \nLabradorite                          0088(2), 0104(2)      62762 \nLimonite                                   0128, 0129      64550 \nMagnetite                                  0055, 0072       7103 \nMicrocline                                       0071      60699 \nMontmorillonite                      0123, 0124, 0125      87986 \nMuscovite                                        0034      62481 \nNepheline                                     0097(2)      51930 \nOlivine                                          0065       7965 \nOmphacite                                  0019, 0067     108032 \nOpal                                             0102      34404 \nOrthoclase                                       0057      49824 \nPhlogopite                                 0045, 0070     105119 \nPyrite                                     0042, 0048      31598 \nPyrolusite                                 0117, 0118      45534 \nPyrrhotite                                       0051      21572 \nQuartz                                  0009(2), 0035     126760 \nRutile                                           0093       4959 \nSanidine                                      0099(2)      49260 \nSerpentine                                 0018, 0068      78937 \nSiderite                                         0080      11651 \nSilicified wood                               0127(2)      92935 \nSillimanite                                0032, 0033      70546 \nSodalite                                   0043, 0060      61852 \nSphalerite                                       0105      27485 \nStaurolite                           0027, 0028, 0066      30628 \nSulfur                                     0036, 0037      34751 \nTalc                     0022, 0040, 0041, 0058, 0059     138317 \nTitanite                                         0094       4121 \nTourmaline                                 0044, 0062      68419 \nTremolite                               0098(2), 0100      70913 \nZircon                                        0110(2)       5110 \n</code></pre>",
+    "publication_date": "2018-10-05",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "A 2D hyperspectral library of mineral reflectance, from 900 to 2500nm - High dynamic range data"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "48160"
+      }
+    },
+    "communities": {},
+    "id": "1476494",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.1476494",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.1476495",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:1476495",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 6,
+  "stats": {
+    "all_versions": {
+      "data_volume": 1715551942471.0,
+      "downloads": 5557,
+      "unique_downloads": 2052,
+      "unique_views": 655,
+      "views": 711
+    },
+    "this_version": {
+      "data_volume": 1714484887653.0,
+      "downloads": 5555,
+      "unique_downloads": 2051,
+      "unique_views": 654,
+      "views": 710
+    }
+  },
+  "status": "published",
+  "updated": "2020-01-24T19:25:40.842047+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  }
+}
