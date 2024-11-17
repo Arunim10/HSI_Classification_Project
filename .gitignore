@@ -27,7 +27,8 @@ secrets.env
 *.parquet
 *.csv
 *.pth
-
+*.hdr.h5
+*.jpg
 RPNet_RF-Failed/
 
 Vision_Transformer/PaliGemma/
